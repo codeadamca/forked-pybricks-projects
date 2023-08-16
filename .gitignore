@@ -105,3 +105,5 @@ venv.bak/
 
 # LDRAW
 LPub3D
+
+.DS_Store
